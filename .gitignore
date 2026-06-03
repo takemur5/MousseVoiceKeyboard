@@ -1,0 +1,11 @@
+media/
+archive/
+*.mp4
+*.rar
+*.crx
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
